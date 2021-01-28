@@ -1,0 +1,497 @@
+feature_name,weight
+Percent Margin of Error; ANCESTRY - Arab,0.9999999999999633
+Percent Margin of Error; HOUSEHOLDS BY TYPE - Households with one or more people 65 years and over,6.54537528311803e-10
+Estimate; HOUSEHOLDS BY TYPE - Average household size,6.236395085767202e-10
+Estimate; EDUCATIONAL ATTAINMENT - Less than 9th grade,1.9775595158817716e-10
+Estimate; EDUCATIONAL ATTAINMENT - Percent high school graduate or higher,1.861976600464263e-10
+Estimate; YEAR OF ENTRY - Native,1.7267042401344869e-10
+Percent; SCHOOL ENROLLMENT - College or graduate school,1.5957142334918628e-10
+Percent; EDUCATIONAL ATTAINMENT - Population 25 years and over,1.5316504520853508e-10
+Estimate; VETERAN STATUS - Civilian population 18 years and over,1.4678351709009746e-10
+Estimate Margin of Error; HOUSEHOLDS BY TYPE - Average household size,1.4674450893588744e-10
+Estimate Margin of Error; HOUSEHOLDS BY TYPE - Family households (families) - Married-couple family,1.368475055496532e-10
+Estimate; EDUCATIONAL ATTAINMENT - Percent bachelor's degree or higher,1.358163690019787e-10
+"Estimate Margin of Error; HOUSEHOLDS BY TYPE - Family households (families) - Male householder, no wife present, family",1.2906485602481865e-10
+"Estimate Margin of Error; HOUSEHOLDS BY TYPE - Family households (families) - Female householder, no husband present, family",1.257091791773135e-10
+Estimate; YEAR OF ENTRY - Population born outside the United States,1.2405427154819383e-10
+Percent; SCHOOL ENROLLMENT - Kindergarten,1.1628151913578577e-10
+Percent; SCHOOL ENROLLMENT - Elementary school (grades 1-8),1.1590298111454483e-10
+Estimate; MARITAL STATUS - Divorced,1.1560655406063491e-10
+"Estimate; MARITAL STATUS - Now married, except separated.1",1.1347214731423708e-10
+Estimate; VETERAN STATUS - Civilian veterans,1.1264874201223326e-10
+Percent; SCHOOL ENROLLMENT - High school (grades 9-12),1.1123108879275423e-10
+Estimate; MARITAL STATUS - Females 15 years and over,1.1087203778768068e-10
+Estimate; MARITAL STATUS - Never married.1,1.0378043032149148e-10
+Percent; HOUSEHOLDS BY TYPE - Average household size,1.0249385907759514e-10
+Estimate; MARITAL STATUS - Separated.1,1.0059351558656081e-10
+Estimate; U.S. CITIZENSHIP STATUS - Naturalized U.S. citizen,8.770550548806968e-11
+"Percent; SCHOOL ENROLLMENT - Nursery school, preschool",8.495398758382941e-11
+Percent; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school,7.850889307148973e-11
+Estimate; EDUCATIONAL ATTAINMENT - Associate's degree,7.419206210761836e-11
+Estimate; RELATIONSHIP - Spouse,7.230495518181605e-11
+Estimate; RELATIONSHIP - Other relatives,7.036793714452864e-11
+"Percent; HOUSEHOLDS BY TYPE - Family households (families) - Female householder, no husband present, family - With own children under 18 years",6.900130356888158e-11
+"Percent; FERTILITY - Unmarried women (widowed, divorced, and never married) - Per 1,000 unmarried women",6.880575015993928e-11
+Estimate; RELATIONSHIP - Population in households,6.858772919190667e-11
+"Percent; FERTILITY - Per 1,000 women 15 to 50 years old - Per 1,000 women 35 to 50 years old",6.769926015181421e-11
+Estimate; U.S. CITIZENSHIP STATUS - Foreign-born population,6.755758790116893e-11
+"Percent; FERTILITY - Per 1,000 women 15 to 50 years old",6.605973667389575e-11
+"Percent; FERTILITY - Per 1,000 women 15 to 50 years old - Per 1,000 women 20 to 34 years old",6.60252312892351e-11
+Estimate; RELATIONSHIP - Child,6.57925982303683e-11
+"Percent; FERTILITY - Per 1,000 women 15 to 50 years old - Per 1,000 women 15 to 19 years old",6.518081148605692e-11
+Percent Margin of Error; PLACE OF BIRTH - Native - Born in United States - Different state,6.459168574622035e-11
+Percent; HOUSEHOLDS BY TYPE - Family households (families) - Married-couple family - With own children under 18 years,6.200567836955884e-11
+Estimate Margin of Error; HOUSEHOLDS BY TYPE - Family households (families),6.111776362782706e-11
+Estimate Margin of Error; HOUSEHOLDS BY TYPE - Nonfamily households,6.111025382016418e-11
+Estimate Margin of Error; EDUCATIONAL ATTAINMENT - Bachelor's degree,5.963470304593335e-11
+"Estimate; PLACE OF BIRTH - Native - Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)",5.859321961133738e-11
+Estimate Margin of Error; MARITAL STATUS - Separated.1,5.663319846652029e-11
+"Percent; HOUSEHOLDS BY TYPE - Family households (families) - Female householder, no husband present, family",5.65215929615448e-11
+Estimate; PLACE OF BIRTH - Native - Born in United States - Different state,5.643785568756692e-11
+Percent; YEAR OF ENTRY - Entered 2000 or later,5.546522164557514e-11
+Percent; YEAR OF ENTRY - Entered 2000 or later.1,5.491188320361413e-11
+Percent Margin of Error; PLACE OF BIRTH - Native - Born in United States,5.411072525923939e-11
+Estimate Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Asia,5.1274496713109904e-11
+Estimate Margin of Error; YEAR OF ENTRY - Foreign born,4.904175919257913e-11
+"Percent; LANGUAGE SPOKEN AT HOME - Language other than English - Spanish - Speak English less than ""very well""",4.890315733133556e-11
+Percent Margin of Error; U.S. CITIZENSHIP STATUS - Naturalized U.S. citizen,4.87810762209238e-11
+Estimate Margin of Error; ANCESTRY - Arab,4.8160816894032236e-11
+"Percent; HOUSEHOLDS BY TYPE - Family households (families) - Male householder, no wife present, family - With own children under 18 years",4.809574266628758e-11
+Percent; HOUSEHOLDS BY TYPE - Family households (families) - Married-couple family,4.749195481323909e-11
+Percent; WORLD REGION OF BIRTH OF FOREIGN BORN - Asia,4.678040363732144e-11
+Estimate; U.S. CITIZENSHIP STATUS - Not a U.S. citizen,4.6716441908578935e-11
+Percent Margin of Error; U.S. CITIZENSHIP STATUS - Not a U.S. citizen,4.540757447983926e-11
+Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - With a disability.1,4.52384662662144e-11
+Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Under 18 years,4.4677910785058395e-11
+Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - With a disability,4.3761671966301846e-11
+Estimate Margin of Error; RELATIONSHIP - Population in households,4.35196121761211e-11
+Percent; LANGUAGE SPOKEN AT HOME - Language other than English - Other languages,4.268866782348893e-11
+Percent Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - With a disability.1,4.1846364155946614e-11
+"Percent Margin of Error; SCHOOL ENROLLMENT - Nursery school, preschool",4.181801374636158e-11
+Percent Margin of Error; PLACE OF BIRTH - Foreign born,4.178760735064433e-11
+Percent; MARITAL STATUS - Never married,4.159772699907638e-11
+Percent; MARITAL STATUS - Separated,4.1543964313583634e-11
+Percent; LANGUAGE SPOKEN AT HOME - English only,4.142402718332181e-11
+Percent Margin of Error; SCHOOL ENROLLMENT - High school (grades 9-12),4.119210520099094e-11
+Percent; ANCESTRY - Total population,4.114811266276808e-11
+Estimate Margin of Error; MARITAL STATUS - Never married.1,4.089889104469391e-11
+Percent Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Under 18 years,4.082875233919498e-11
+Percent; EDUCATIONAL ATTAINMENT - Less than 9th grade,3.973964018098852e-11
+Estimate Margin of Error; VETERAN STATUS - Civilian veterans,3.952459635080639e-11
+Percent; MARITAL STATUS - Males 15 years and over,3.948789743541542e-11
+Estimate; EDUCATIONAL ATTAINMENT - Bachelor's degree,3.9063545041913283e-11
+Percent; WORLD REGION OF BIRTH OF FOREIGN BORN - Europe,3.8940809208914615e-11
+Percent; LANGUAGE SPOKEN AT HOME - Language other than English - Other Indo-European languages,3.842566563909118e-11
+Percent Margin of Error; SCHOOL ENROLLMENT - Kindergarten,3.838780963434261e-11
+Estimate Margin of Error; LANGUAGE SPOKEN AT HOME - Language other than English - Asian and Pacific Islander languages,3.8042539984069895e-11
+Percent; WORLD REGION OF BIRTH OF FOREIGN BORN - Northern America,3.7495106994830767e-11
+Percent; RELATIONSHIP - Nonrelatives - Unmarried partner,3.744205564083086e-11
+Estimate Margin of Error; EDUCATIONAL ATTAINMENT - Percent bachelor's degree or higher,3.540029970956716e-11
+Estimate Margin of Error; EDUCATIONAL ATTAINMENT - Associate's degree,3.3712555499770726e-11
+"Percent; HOUSEHOLDS BY TYPE - Family households (families) - Male householder, no wife present, family",3.341614485119493e-11
+Percent; EDUCATIONAL ATTAINMENT - High school graduate (includes equivalency),3.339438342959142e-11
+"Percent; MARITAL STATUS - Now married, except separated",3.322260556124033e-11
+Percent Margin of Error; YEAR OF ENTRY - Population born outside the United States,3.272950194964071e-11
+"Estimate Margin of Error; HOUSEHOLDS BY TYPE - Family households (families) - Male householder, no wife present, family - With own children under 18 years",3.2378294489987525e-11
+Percent; YEAR OF ENTRY - Entered before 2000.1,3.202598856412702e-11
+Percent; LANGUAGE SPOKEN AT HOME - Language other than English,3.079849914223922e-11
+Estimate; EDUCATIONAL ATTAINMENT - Graduate or professional degree,3.046722132937253e-11
+Estimate; PLACE OF BIRTH - Native - Born in United States - State of residence,2.9664835732713495e-11
+Estimate Margin of Error; YEAR OF ENTRY - Entered 2000 or later.1,2.8841686421006993e-11
+Estimate; RELATIONSHIP - Householder,2.840314886499301e-11
+Percent Margin of Error; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school,2.7459062672578142e-11
+Percent; HOUSEHOLDS BY TYPE - Nonfamily households - Householder living alone,2.6466756602094507e-11
+Estimate Margin of Error; RELATIONSHIP - Nonrelatives,2.626533956352913e-11
+Estimate Margin of Error; EDUCATIONAL ATTAINMENT - Percent high school graduate or higher,2.5685302653235056e-11
+Percent Margin of Error; SCHOOL ENROLLMENT - Elementary school (grades 1-8),2.555728307275713e-11
+Percent; HOUSEHOLDS BY TYPE - Family households (families),2.4200377812810814e-11
+Percent; HOUSEHOLDS BY TYPE - Nonfamily households,2.4178077102270448e-11
+Estimate; PLACE OF BIRTH - Native,2.3886970418156295e-11
+Estimate; PLACE OF BIRTH - Native - Born in United States,2.3886970282631023e-11
+Percent Margin of Error; RELATIONSHIP - Nonrelatives - Unmarried partner,2.2942516376273092e-11
+Estimate Margin of Error; HOUSEHOLDS BY TYPE - Family households (families) - Married-couple family - With own children under 18 years,2.2779417241380884e-11
+Percent; HOUSEHOLDS BY TYPE - Households with one or more people under 18 years,2.2228982909477772e-11
+Percent Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - With a disability,2.2066668933470087e-11
+Estimate Margin of Error; VETERAN STATUS - Civilian population 18 years and over,2.2020769979886907e-11
+Estimate; RELATIONSHIP - Nonrelatives,2.1817827668764618e-11
+Percent; WORLD REGION OF BIRTH OF FOREIGN BORN - Latin America,2.170374348619338e-11
+"Percent Margin of Error; MARITAL STATUS - Now married, except separated",2.1585015154109485e-11
+Estimate Margin of Error; LANGUAGE SPOKEN AT HOME - English only,2.1568218378957083e-11
+Percent Margin of Error; SCHOOL ENROLLMENT - College or graduate school,2.1051013793319797e-11
+Estimate Margin of Error; RELATIONSHIP - Child,2.0856531928489623e-11
+Percent; YEAR OF ENTRY - Entered before 2000,2.085087568387225e-11
+"Percent; LANGUAGE SPOKEN AT HOME - Language other than English - Other Indo-European languages - Speak English less than ""very well""",2.0509363901199257e-11
+"Estimate Margin of Error; MARITAL STATUS - Now married, except separated.1",2.043729922912552e-11
+Estimate; GRANDPARENTS - Who are female,1.9645748217242062e-11
+Estimate Margin of Error; LANGUAGE SPOKEN AT HOME - Language other than English - Spanish,1.9474134305670437e-11
+Estimate Margin of Error; RELATIONSHIP - Householder,1.9089940342202887e-11
+Estimate; GRANDPARENTS - Who are married,1.7715123096749552e-11
+Estimate; GRANDPARENTS - Number of grandparents responsible for own grandchildren under 18 years,1.767903472270696e-11
+Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over,1.7004502335702483e-11
+Estimate Margin of Error; YEAR OF ENTRY - Entered before 2000,1.6863177102597227e-11
+Estimate Margin of Error; EDUCATIONAL ATTAINMENT - Graduate or professional degree,1.6729654432070216e-11
+Percent; WORLD REGION OF BIRTH OF FOREIGN BORN - Oceania,1.671922247085359e-11
+"Percent; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea",1.626907664847594e-11
+Estimate; GRANDPARENTS - Responsible for grandchildren - Years responsible for grandchildren - 5 or more years,1.603362562619011e-11
+Estimate Margin of Error; LANGUAGE SPOKEN AT HOME - Language other than English,1.593075086927273e-11
+Estimate; GRANDPARENTS - Responsible for grandchildren - Years responsible for grandchildren - 3 or 4 years,1.5515172581751207e-11
+Estimate Margin of Error; HOUSEHOLDS BY TYPE - Family households (families) - With own children under 18 years,1.4830974989776813e-11
+Percent Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over,1.482735659038702e-11
+"Percent Margin of Error; PLACE OF BIRTH - Native - Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)",1.4271958940180463e-11
+Percent; LANGUAGE SPOKEN AT HOME - Language other than English - Spanish,1.3835630241110946e-11
+Estimate Margin of Error; GRANDPARENTS - Who are married,1.382020274045756e-11
+Percent Margin of Error; MARITAL STATUS - Never married,1.3441611505218744e-11
+Estimate Margin of Error; GRANDPARENTS - Responsible for grandchildren - Years responsible for grandchildren - 5 or more years,1.296907322338595e-11
+"Percent; LANGUAGE SPOKEN AT HOME - Language other than English - Other languages - Speak English less than ""very well""",1.2965546186663912e-11
+"Estimate Margin of Error; HOUSEHOLDS BY TYPE - Family households (families) - Female householder, no husband present, family - With own children under 18 years",1.2950189531846235e-11
+Percent; ANCESTRY - American,1.2628143417569258e-11
+"Estimate Margin of Error; LANGUAGE SPOKEN AT HOME - Language other than English - Other languages - Speak English less than ""very well""",1.2451088862605554e-11
+Percent; ANCESTRY - Arab,1.2435090175448582e-11
+Percent Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 18 to 64 years,1.2398470186587634e-11
+"Percent; LANGUAGE SPOKEN AT HOME - Language other than English - Asian and Pacific Islander languages - Speak English less than ""very well""",1.2216664996517277e-11
+Percent; YEAR OF ENTRY - Foreign born,1.2166166618878639e-11
+"Estimate Margin of Error; LANGUAGE SPOKEN AT HOME - Language other than English - Spanish - Speak English less than ""very well""",1.2052040870283096e-11
+Estimate Margin of Error; YEAR OF ENTRY - Entered before 2000.1,1.1958354675955553e-11
+Estimate Margin of Error; LANGUAGE SPOKEN AT HOME - Language other than English - Other Indo-European languages,1.1898935897464331e-11
+Estimate; PLACE OF BIRTH - Foreign born,1.1083590967762846e-11
+Percent; WORLD REGION OF BIRTH OF FOREIGN BORN - Africa,1.1078020418315779e-11
+Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 18 to 64 years,1.0601500498872221e-11
+Percent Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - With a disability.2,1.0332475150541358e-11
+Percent Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Total Civilian Noninstitutionalized Population,1.0332474771070597e-11
+Percent Margin of Error; PLACE OF BIRTH - Native - Born in United States - State of residence,1.0271001280384717e-11
+Percent; LANGUAGE SPOKEN AT HOME - Language other than English - Asian and Pacific Islander languages,1.001048259246357e-11
+"Estimate Margin of Error; LANGUAGE SPOKEN AT HOME - Language other than English - Speak English less than ""very well""",9.698040710336836e-12
+Estimate Margin of Error; RELATIONSHIP - Other relatives,9.490123381692035e-12
+"Percent; LANGUAGE SPOKEN AT HOME - Language other than English - Speak English less than ""very well""",8.570438996383415e-12
+Estimate Margin of Error; HOUSEHOLDS BY TYPE - Nonfamily households - Householder living alone,8.085863738554327e-12
+Estimate Margin of Error; MARITAL STATUS - Divorced,7.86035808924418e-12
+Percent Margin of Error; U.S. CITIZENSHIP STATUS - Foreign-born population,7.571519664495083e-12
+Estimate Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Europe,6.938305398968003e-12
+Percent; HOUSEHOLDS BY TYPE - Family households (families) - With own children under 18 years,6.82420786546345e-12
+Estimate Margin of Error; GRANDPARENTS - Who are female,6.437655543736244e-12
+Estimate Margin of Error; ANCESTRY - Total population,6.375709923661828e-12
+Percent Margin of Error; PLACE OF BIRTH - Total population,6.164886309778517e-12
+Percent Margin of Error; PLACE OF BIRTH - Native,6.1648801298261335e-12
+Percent; HOUSEHOLDS BY TYPE - Nonfamily households - Householder living alone - 65 years and over,5.895147983322763e-12
+Estimate Margin of Error; GRANDPARENTS - Number of grandparents responsible for own grandchildren under 18 years,5.386195423050591e-12
+Estimate Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over,5.239101307733668e-12
+"Estimate Margin of Error; LANGUAGE SPOKEN AT HOME - Language other than English - Asian and Pacific Islander languages - Speak English less than ""very well""",5.1148870295475435e-12
+Estimate Margin of Error; YEAR OF ENTRY - Entered 2000 or later,4.904247364115322e-12
+"Percent Margin of Error; FERTILITY - Per 1,000 women 15 to 50 years old - Per 1,000 women 15 to 19 years old",4.763654938176251e-12
+Estimate Margin of Error; EDUCATIONAL ATTAINMENT - High school graduate (includes equivalency),4.685763062284298e-12
+Estimate Margin of Error; RELATIONSHIP - Spouse,4.544637988146676e-12
+Estimate Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Latin America,4.542669503906048e-12
+Estimate Margin of Error; HOUSEHOLDS BY TYPE - Nonfamily households - Householder living alone - 65 years and over,4.0799748020174664e-12
+Estimate Margin of Error; HOUSEHOLDS BY TYPE - Households with one or more people 65 years and over,4.0706868214765435e-12
+Estimate Margin of Error; HOUSEHOLDS BY TYPE - Households with one or more people under 18 years,3.4713830117730216e-12
+Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - With a disability.2,3.4580165337097513e-12
+Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Total Civilian Noninstitutionalized Population,3.458008510613675e-12
+Estimate Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Northern America,3.093569278240886e-12
+Percent Margin of Error; MARITAL STATUS - Separated,2.85157402519446e-12
+Estimate Margin of Error; GRANDPARENTS - Responsible for grandchildren - Years responsible for grandchildren - 3 or 4 years,2.6232714053298425e-12
+Percent; HOUSEHOLDS BY TYPE - Households with one or more people 65 years and over,2.6012091243997337e-12
+"Percent Margin of Error; FERTILITY - Per 1,000 women 15 to 50 years old - Per 1,000 women 35 to 50 years old",2.5826819253105954e-12
+Estimate Margin of Error; LANGUAGE SPOKEN AT HOME - Language other than English - Other languages,2.5424663730681113e-12
+Estimate Margin of Error; MARITAL STATUS - Females 15 years and over,2.4917496858163288e-12
+Percent Margin of Error; EDUCATIONAL ATTAINMENT - Less than 9th grade,2.4045318230151097e-12
+"Estimate Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea",2.2079958575480646e-12
+Estimate Margin of Error; MARITAL STATUS - Divorced.1,2.0418089961837804e-12
+Estimate Margin of Error; EDUCATIONAL ATTAINMENT - Less than 9th grade,1.911418790715054e-12
+"Percent Margin of Error; FERTILITY - Per 1,000 women 15 to 50 years old",1.9059849185043554e-12
+Percent; MARITAL STATUS - Divorced.1,1.5160479208825572e-12
+Estimate Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Oceania,1.4246139769973683e-12
+Estimate Margin of Error; GRANDPARENTS - Responsible for grandchildren - Years responsible for grandchildren - Less than 1 year,1.3367150268617234e-12
+"Percent Margin of Error; FERTILITY - Per 1,000 women 15 to 50 years old - Per 1,000 women 20 to 34 years old",1.2718036259545817e-12
+Estimate Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Africa,1.1441370854209376e-12
+Percent; GRANDPARENTS - Responsible for grandchildren,1.0693161850774957e-12
+"Estimate Margin of Error; FERTILITY - Per 1,000 women 15 to 50 years old - Per 1,000 women 15 to 19 years old",1.0072823651563478e-12
+Estimate; MARITAL STATUS - Divorced.1,9.95496003339258e-13
+"Estimate Margin of Error; LANGUAGE SPOKEN AT HOME - Language other than English - Other Indo-European languages - Speak English less than ""very well""",9.720053876908531e-13
+Percent Margin of Error; GRANDPARENTS - Number of grandparents living with own grandchildren under 18 years,9.280961416058275e-13
+Percent; MARITAL STATUS - Widowed.1,8.26192413094784e-13
+Percent Margin of Error; MARITAL STATUS - Never married.1,8.180973259941382e-13
+Percent; PLACE OF BIRTH - Total population,7.551390068805119e-13
+Percent Margin of Error; FERTILITY - Number of women 15 to 50 years old who had a birth in the past 12 months,7.485529665736401e-13
+Percent; PLACE OF BIRTH - Native,7.440228988464526e-13
+Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Asia,6.76451082648466e-13
+"Estimate Margin of Error; FERTILITY - Per 1,000 women 15 to 50 years old - Per 1,000 women 35 to 50 years old",6.281381664807739e-13
+Percent Margin of Error; MARITAL STATUS - Females 15 years and over,6.120911069662505e-13
+Estimate Margin of Error; ANCESTRY - American,6.05604786154193e-13
+Estimate Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over,5.819338066981317e-13
+Percent; PLACE OF BIRTH - Native - Born in United States - Different state,5.419883292168137e-13
+Estimate Margin of Error; MARITAL STATUS - Males 15 years and over,5.191038571217277e-13
+Estimate Margin of Error; SCHOOL ENROLLMENT - High school (grades 9-12),4.875401297954607e-13
+Estimate; RESIDENCE 1 YEAR AGO - Different house in the U.S. - Different county - Same state,4.847806184260506e-13
+Estimate Margin of Error; FERTILITY - Number of women 15 to 50 years old who had a birth in the past 12 months,4.803943701170432e-13
+Estimate; GRANDPARENTS - Responsible for grandchildren,4.679516323047306e-13
+"Percent Margin of Error; FERTILITY - Unmarried women (widowed, divorced, and never married) - Per 1,000 unmarried women",4.650989608636497e-13
+"Estimate; HOUSEHOLDS BY TYPE - Family households (families) - Male householder, no wife present, family",4.6118664442929e-13
+Percent Margin of Error; RELATIONSHIP - Child,4.551931748197902e-13
+Percent Margin of Error; MARITAL STATUS - Widowed.1,4.425270913599455e-13
+Estimate; RESIDENCE 1 YEAR AGO - Different house in the U.S. - Different county,4.366854100545936e-13
+Percent; RESIDENCE 1 YEAR AGO - Different house in the U.S. - Different county,4.3668367533111763e-13
+"Estimate Margin of Error; MARITAL STATUS - Now married, except separated",4.2971268904290483e-13
+Percent; PLACE OF BIRTH - Native - Born in United States,4.269640196952196e-13
+"Estimate; HOUSEHOLDS BY TYPE - Family households (families) - Female householder, no husband present, family - With own children under 18 years",4.155269878181045e-13
+Estimate; LANGUAGE SPOKEN AT HOME - Language other than English,3.9599226675512966e-13
+Estimate Margin of Error; MARITAL STATUS - Separated,3.8734640495086126e-13
+Estimate Margin of Error; RESIDENCE 1 YEAR AGO - Different house in the U.S. - Different county - Different state,3.7600825231187684e-13
+Percent; GRANDPARENTS - Responsible for grandchildren - Years responsible for grandchildren - Less than 1 year,3.723334574684545e-13
+"Estimate Margin of Error; FERTILITY - Unmarried women (widowed, divorced, and never married) - Per 1,000 unmarried women",3.687250157979882e-13
+Estimate Margin of Error; GRANDPARENTS - Number of grandparents living with own grandchildren under 18 years,3.687120053719184e-13
+Estimate; HOUSEHOLDS BY TYPE - Family households (families),3.661099201579532e-13
+Estimate Margin of Error; MARITAL STATUS - Never married,3.506873610947814e-13
+Percent; FERTILITY - Number of women 15 to 50 years old who had a birth in the past 12 months,3.3279932629137754e-13
+Percent; RESIDENCE 1 YEAR AGO - Abroad,3.28501982560514e-13
+"Estimate; FERTILITY - Unmarried women (widowed, divorced, and never married)",3.203795735651216e-13
+"Estimate; FERTILITY - Per 1,000 women 15 to 50 years old - Per 1,000 women 15 to 19 years old",3.1914705253544007e-13
+"Estimate; FERTILITY - Per 1,000 women 15 to 50 years old - Per 1,000 women 35 to 50 years old",3.173884766116686e-13
+"Estimate; LANGUAGE SPOKEN AT HOME - Language other than English - Spanish - Speak English less than ""very well""",3.091966786772371e-13
+Percent Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Europe,3.054136804570007e-13
+Percent Margin of Error; RELATIONSHIP - Population in households,3.04416214458314e-13
+"Estimate; HOUSEHOLDS BY TYPE - Family households (families) - Male householder, no wife present, family - With own children under 18 years",2.969985368750372e-13
+Estimate; LANGUAGE SPOKEN AT HOME - Language other than English - Other languages,2.900128054372786e-13
+"Estimate; LANGUAGE SPOKEN AT HOME - Language other than English - Speak English less than ""very well""",2.877680732593646e-13
+Percent Margin of Error; EDUCATIONAL ATTAINMENT - Percent high school graduate or higher,2.858373260306024e-13
+Estimate Margin of Error; GRANDPARENTS - Responsible for grandchildren,2.8515384498106755e-13
+Estimate; YEAR OF ENTRY - Entered before 2000.1,2.819415707844275e-13
+Estimate Margin of Error; SCHOOL ENROLLMENT - College or graduate school,2.753665351296064e-13
+"Estimate; LANGUAGE SPOKEN AT HOME - Language other than English - Other Indo-European languages - Speak English less than ""very well""",2.6985705336990407e-13
+Percent; PLACE OF BIRTH - Native - Born in United States - State of residence,2.6856294965682537e-13
+Percent Margin of Error; MARITAL STATUS - Divorced.1,2.636241919207194e-13
+Percent Margin of Error; ANCESTRY - American,2.611244553918368e-13
+Estimate; LANGUAGE SPOKEN AT HOME - Language other than English - Other Indo-European languages,2.5804185177502603e-13
+Estimate; HOUSEHOLDS BY TYPE - Family households (families) - Married-couple family,2.544631172440859e-13
+Estimate; EDUCATIONAL ATTAINMENT - High school graduate (includes equivalency),2.541916330200955e-13
+Percent Margin of Error; EDUCATIONAL ATTAINMENT - Associate's degree,2.472813620535419e-13
+Estimate; RESIDENCE 1 YEAR AGO - Different house in the U.S.,2.464790524459026e-13
+Percent; RELATIONSHIP - Population in households,2.4530377729092834e-13
+Percent; RESIDENCE 1 YEAR AGO - Same house,2.440881698151376e-13
+Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - With a disability.3,2.437217094808375e-13
+Estimate Margin of Error; U.S. CITIZENSHIP STATUS - Naturalized U.S. citizen,2.428370005080893e-13
+Estimate Margin of Error; YEAR OF ENTRY - Population born outside the United States,2.4030777368011513e-13
+Estimate; FERTILITY - Number of women 15 to 50 years old who had a birth in the past 12 months,2.382100593167902e-13
+Percent; U.S. CITIZENSHIP STATUS - Not a U.S. citizen,2.3379909119825015e-13
+"Percent Margin of Error; MARITAL STATUS - Now married, except separated.1",2.277362326497112e-13
+"Estimate; FERTILITY - Per 1,000 women 15 to 50 years old",2.2719239683999248e-13
+Percent Margin of Error; MARITAL STATUS - Divorced,2.188214887066664e-13
+Estimate Margin of Error; MARITAL STATUS - Widowed.1,2.1675369832330205e-13
+Percent Margin of Error; RELATIONSHIP - Householder,2.0815120460593306e-13
+Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Oceania,2.0798814059919124e-13
+Estimate; HOUSEHOLDS BY TYPE - Nonfamily households - Householder living alone,2.0686750923371022e-13
+Estimate Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - With a disability.1,2.0512758158730549e-13
+Percent; MARITAL STATUS - Separated.1,2.0239192266569006e-13
+Estimate; MARITAL STATUS - Widowed.1,2.0216814333728905e-13
+Estimate; GRANDPARENTS - Responsible for grandchildren - Years responsible for grandchildren - Less than 1 year,2.0136670109138777e-13
+Percent; GRANDPARENTS - Responsible for grandchildren - Years responsible for grandchildren - 5 or more years,1.9606538614880265e-13
+Estimate; GRANDPARENTS - Number of grandparents living with own grandchildren under 18 years,1.9366626358152672e-13
+"Estimate; FERTILITY - Unmarried women (widowed, divorced, and never married) - Per 1,000 unmarried women",1.936523857937189e-13
+Percent; GRANDPARENTS - Number of grandparents living with own grandchildren under 18 years,1.9364718162329098e-13
+Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Language other than English - Other Indo-European languages,1.9257165306818536e-13
+Percent Margin of Error; GRANDPARENTS - Responsible for grandchildren - Years responsible for grandchildren - 3 or 4 years,1.9142673557404066e-13
+Percent; GRANDPARENTS - Responsible for grandchildren - Years responsible for grandchildren - 3 or 4 years,1.8669094048462398e-13
+Estimate Margin of Error; U.S. CITIZENSHIP STATUS - Not a U.S. citizen,1.802794025174137e-13
+Percent Margin of Error; VETERAN STATUS - Civilian population 18 years and over,1.7862794576828378e-13
+"Percent; FERTILITY - Unmarried women (widowed, divorced, and never married)",1.7323815992842384e-13
+Percent Margin of Error; HOUSEHOLDS BY TYPE - Family households (families) - Married-couple family,1.7062740109707875e-13
+"Estimate; HOUSEHOLDS BY TYPE - Family households (families) - Female householder, no husband present, family",1.7025270082626776e-13
+Percent Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Africa,1.70009839539631e-13
+Percent Margin of Error; YEAR OF ENTRY - Entered 2000 or later,1.6667223157185163e-13
+Estimate; RESIDENCE 1 YEAR AGO - Abroad,1.6641549249740706e-13
+Estimate; HOUSEHOLDS BY TYPE - Households with one or more people under 18 years,1.654093528813405e-13
+Percent Margin of Error; GRANDPARENTS - Responsible for grandchildren - Years responsible for grandchildren - 5 or more years,1.650875616765468e-13
+Percent Margin of Error; YEAR OF ENTRY - Entered before 2000,1.649166914141631e-13
+Estimate; HOUSEHOLDS BY TYPE - Total households,1.634196250543951e-13
+Percent; RELATIONSHIP - Spouse,1.6110029976701412e-13
+"Estimate; EDUCATIONAL ATTAINMENT - Some college, no degree",1.5786504048431738e-13
+Estimate Margin of Error; U.S. CITIZENSHIP STATUS - Foreign-born population,1.5430712263508894e-13
+Estimate; MARITAL STATUS - Never married,1.5387344176609474e-13
+Estimate; GRANDPARENTS - Responsible for grandchildren - Years responsible for grandchildren - 1 or 2 years,1.5221851557001287e-13
+"Estimate; LANGUAGE SPOKEN AT HOME - Language other than English - Asian and Pacific Islander languages - Speak English less than ""very well""",1.5197045011294819e-13
+Percent Margin of Error; RELATIONSHIP - Nonrelatives,1.5095563687950175e-13
+Percent; RELATIONSHIP - Nonrelatives,1.5093482019779003e-13
+"Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Language other than English - Speak English less than ""very well""",1.4920746929658613e-13
+Estimate; LANGUAGE SPOKEN AT HOME - English only,1.4826508076826173e-13
+Percent; U.S. CITIZENSHIP STATUS - Naturalized U.S. citizen,1.4678449428151552e-13
+Estimate Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Under 18 years,1.4436021822383793e-13
+Percent; MARITAL STATUS - Never married.1,1.4378775947676559e-13
+Estimate Margin of Error; PLACE OF BIRTH - Foreign born,1.4295856165524867e-13
+Estimate Margin of Error; PLACE OF BIRTH - Native - Born in United States - Different state,1.427538642850834e-13
+Estimate Margin of Error; RESIDENCE 1 YEAR AGO - Different house in the U.S. - Same county,1.4232712230999311e-13
+Estimate Margin of Error; RESIDENCE 1 YEAR AGO - Different house in the U.S. - Different county,1.4193680952789833e-13
+Estimate; LANGUAGE SPOKEN AT HOME - Language other than English - Spanish,1.4061061343051406e-13
+Percent Margin of Error; RESIDENCE 1 YEAR AGO - Different house in the U.S. - Different county,1.3934686737826496e-13
+Percent Margin of Error; RESIDENCE 1 YEAR AGO - Abroad,1.3721662694976544e-13
+Estimate; PLACE OF BIRTH - Total population,1.3721662694976544e-13
+Percent Margin of Error; EDUCATIONAL ATTAINMENT - Bachelor's degree,1.3710213520035097e-13
+Estimate; ANCESTRY - Arab,1.3665544390528694e-13
+Percent Margin of Error; GRANDPARENTS - Responsible for grandchildren - Years responsible for grandchildren - 1 or 2 years,1.31341118536632e-13
+Estimate; YEAR OF ENTRY - Entered before 2000,1.278786104785823e-13
+Percent Margin of Error; RELATIONSHIP - Other relatives,1.2589235209858884e-13
+Estimate; YEAR OF ENTRY - Entered 2000 or later.1,1.2572538496402608e-13
+Estimate Margin of Error; RESIDENCE 1 YEAR AGO - Abroad,1.2438921420665494e-13
+Estimate Margin of Error; RESIDENCE 1 YEAR AGO - Same house,1.1721353054827688e-13
+Estimate Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - With a disability,1.1680240108447038e-13
+Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over,1.1680240108447038e-13
+Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Northern America,1.1613279782274333e-13
+Percent Margin of Error; MARITAL STATUS - Widowed,1.1347520145754686e-13
+Estimate; RESIDENCE 1 YEAR AGO - Different house in the U.S. - Same county,1.1330519855690113e-13
+Percent; MARITAL STATUS - Widowed,1.1162598623215558e-13
+Percent Margin of Error; RESIDENCE 1 YEAR AGO - Different house in the U.S. - Different county - Same state,1.1148547363060146e-13
+Percent; RESIDENCE 1 YEAR AGO - Different house in the U.S. - Different county - Same state,1.1135970617859314e-13
+"Percent Margin of Error; HOUSEHOLDS BY TYPE - Family households (families) - Male householder, no wife present, family - With own children under 18 years",1.1113332476497817e-13
+Percent Margin of Error; RESIDENCE 1 YEAR AGO - Different house in the U.S. - Same county,1.1030239221998528e-13
+Percent Margin of Error; HOUSEHOLDS BY TYPE - Family households (families) - With own children under 18 years,1.1009942957329599e-13
+Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over,1.0968656538601351e-13
+Percent; MARITAL STATUS - Females 15 years and over,1.0770724589992398e-13
+Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Total Civilian Noninstitutionalized Population,1.0605015129949713e-13
+Estimate Margin of Error; RESIDENCE 1 YEAR AGO - Different house in the U.S.,1.0498546476611637e-13
+Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - With a disability.2,1.0498373004264039e-13
+Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 65 years and over,1.0498373004264039e-13
+Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 65 years and over,1.0498373004264039e-13
+Percent Margin of Error; RESIDENCE 1 YEAR AGO - Different house in the U.S.,1.0498373004264039e-13
+Estimate Margin of Error; PLACE OF BIRTH - Native - Born in United States - State of residence,1.0382666948416386e-13
+Percent Margin of Error; EDUCATIONAL ATTAINMENT - Graduate or professional degree,1.0342421363773724e-13
+Estimate Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 65 years and over,1.029107354888481e-13
+Estimate Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - With a disability.2,1.029107354888481e-13
+Percent; RESIDENCE 1 YEAR AGO - Different house in the U.S.,1.0290900076537213e-13
+Estimate Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Total Civilian Noninstitutionalized Population,1.029037965949442e-13
+"Percent Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea",1.0125233984581428e-13
+Percent Margin of Error; GRANDPARENTS - Responsible for grandchildren,1.0060355326579895e-13
+Percent Margin of Error; MARITAL STATUS - Males 15 years and over,9.936926363132356e-14
+Percent Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over,9.827728908451405e-14
+Estimate Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 18 to 64 years,9.827208491408612e-14
+Estimate; MARITAL STATUS - Widowed,9.800146805183374e-14
+Estimate Margin of Error; MARITAL STATUS - Widowed,9.7982386093598e-14
+"Percent Margin of Error; HOUSEHOLDS BY TYPE - Family households (families) - Female householder, no husband present, family",9.678716161864998e-14
+Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - With a disability.3,9.411915691259765e-14
+Estimate; YEAR OF ENTRY - Foreign born,9.236578515925409e-14
+Percent; EDUCATIONAL ATTAINMENT - Percent bachelor's degree or higher,9.235667786100521e-14
+Estimate; SCHOOL ENROLLMENT - College or graduate school,8.996275946415722e-14
+Estimate; MARITAL STATUS - Males 15 years and over,8.932438122499775e-14
+"Percent; PLACE OF BIRTH - Native - Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)",8.918213389996765e-14
+Percent; U.S. CITIZENSHIP STATUS - Foreign-born population,8.787068295212919e-14
+"Estimate; SCHOOL ENROLLMENT - Nursery school, preschool",8.765210779415611e-14
+Estimate; HOUSEHOLDS BY TYPE - Nonfamily households - Householder living alone - 65 years and over,8.696602465940728e-14
+"Percent Margin of Error; HOUSEHOLDS BY TYPE - Family households (families) - Male householder, no wife present, family",8.646555693658797e-14
+"Estimate Margin of Error; EDUCATIONAL ATTAINMENT - 9th to 12th grade, no diploma",8.601019202414406e-14
+Percent; PLACE OF BIRTH - Foreign born,8.558258268731578e-14
+Estimate; RESIDENCE 1 YEAR AGO - Different house in the U.S. - Different county - Different state,8.34566790675062e-14
+Percent Margin of Error; HOUSEHOLDS BY TYPE - Total households,8.339162693715707e-14
+Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over,8.17661910401668e-14
+"Estimate Margin of Error; EDUCATIONAL ATTAINMENT - Some college, no degree",7.998809947729058e-14
+Percent Margin of Error; EDUCATIONAL ATTAINMENT - High school graduate (includes equivalency),7.998809947729058e-14
+Estimate; LANGUAGE SPOKEN AT HOME - Language other than English - Asian and Pacific Islander languages,7.768091725424142e-14
+Estimate; RELATIONSHIP - Nonrelatives - Unmarried partner,7.713968352973666e-14
+Percent Margin of Error; LANGUAGE SPOKEN AT HOME - English only,7.607933380504583e-14
+Percent Margin of Error; HOUSEHOLDS BY TYPE - Family households (families) - Married-couple family - With own children under 18 years,7.538414337204813e-14
+Estimate Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - With a disability.3,7.323829043226482e-14
+Estimate; HOUSEHOLDS BY TYPE - Family households (families) - With own children under 18 years,7.084263731194085e-14
+Percent; RESIDENCE 1 YEAR AGO - Population 1 year and over,6.974889416033747e-14
+Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 18 to 64 years,6.97471594368615e-14
+Estimate; RESIDENCE 1 YEAR AGO - Same house,6.97462920751235e-14
+Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - With a disability,6.94323071259717e-14
+"Percent Margin of Error; HOUSEHOLDS BY TYPE - Family households (families) - Female householder, no husband present, family - With own children under 18 years",6.90211776621652e-14
+Percent Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Oceania,6.773314548125242e-14
+Percent; RELATIONSHIP - Householder,6.747380432159389e-14
+"Percent; EDUCATIONAL ATTAINMENT - Some college, no degree",6.731941393223195e-14
+Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Africa,6.711471656206669e-14
+Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Language other than English - Spanish,6.611378111642807e-14
+Estimate Margin of Error; PLACE OF BIRTH - Total population,6.18637086002849e-14
+Percent; YEAR OF ENTRY - Population born outside the United States,6.174704844652545e-14
+Estimate; SCHOOL ENROLLMENT - High school (grades 9-12),6.119410533855785e-14
+Percent Margin of Error; MARITAL STATUS - Separated.1,5.670637570620585e-14
+Estimate Margin of Error; GRANDPARENTS - Responsible for grandchildren - Years responsible for grandchildren - 1 or 2 years,5.590666818378054e-14
+Percent Margin of Error; GRANDPARENTS - Responsible for grandchildren - Years responsible for grandchildren - Less than 1 year,5.588932094902077e-14
+"Estimate Margin of Error; SCHOOL ENROLLMENT - Nursery school, preschool",5.5355026118419914e-14
+Percent; EDUCATIONAL ATTAINMENT - Percent high school graduate or higher,5.4088677980956845e-14
+Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Latin America,5.2279361395513035e-14
+Percent Margin of Error; HOUSEHOLDS BY TYPE - Nonfamily households - Householder living alone,5.121597590473925e-14
+Percent Margin of Error; GRANDPARENTS - Who are female,5.0372900295414524e-14
+Estimate Margin of Error; HOUSEHOLDS BY TYPE - Average family size,5.036943084846257e-14
+Percent Margin of Error; HOUSEHOLDS BY TYPE - Average household size,5.018555016000903e-14
+Percent; EDUCATIONAL ATTAINMENT - Associate's degree,5.003289449412307e-14
+"Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Language other than English - Other languages - Speak English less than ""very well""",4.9911463850804694e-14
+Estimate Margin of Error; PLACE OF BIRTH - Native,4.9203696672606156e-14
+Percent Margin of Error; RESIDENCE 1 YEAR AGO - Same house,4.8541899666521005e-14
+Percent Margin of Error; GRANDPARENTS - Who are married,4.7503667666148885e-14
+Percent; GRANDPARENTS - Who are married,4.748978987834107e-14
+Estimate; ANCESTRY - Total population,4.726687791167805e-14
+"Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Language other than English - Spanish - Speak English less than ""very well""",4.671263376110346e-14
+Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - With a disability.1,4.651661000831808e-14
+Percent Margin of Error; HOUSEHOLDS BY TYPE - Households with one or more people under 18 years,4.4020342926387457e-14
+Percent; GRANDPARENTS - Responsible for grandchildren - Years responsible for grandchildren - 1 or 2 years,4.284420040967518e-14
+Percent; MARITAL STATUS - Divorced,4.0918657351340926e-14
+Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Language other than English - Other languages,4.077641002631083e-14
+"Percent; EDUCATIONAL ATTAINMENT - 9th to 12th grade, no diploma",4.017619570362285e-14
+"Estimate; EDUCATIONAL ATTAINMENT - 9th to 12th grade, no diploma",4.017619570362285e-14
+"Estimate Margin of Error; FERTILITY - Per 1,000 women 15 to 50 years old",3.9188704364923055e-14
+Percent; EDUCATIONAL ATTAINMENT - Graduate or professional degree,3.7501252103666616e-14
+Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Language other than English - Asian and Pacific Islander languages,3.749778265671466e-14
+Percent Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - With a disability.3,3.674838211509268e-14
+Estimate Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over,3.6746647391616705e-14
+Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Under 18 years,3.518539626323758e-14
+"Estimate Margin of Error; FERTILITY - Per 1,000 women 15 to 50 years old - Per 1,000 women 20 to 34 years old",3.5093672759445305e-14
+Percent Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - 65 years and over,3.2921582127087845e-14
+Percent; GRANDPARENTS - Number of grandparents responsible for own grandchildren under 18 years,3.274464033253821e-14
+Percent Margin of Error; GRANDPARENTS - Number of grandparents responsible for own grandchildren under 18 years,3.2699537522162814e-14
+Estimate; MARITAL STATUS - Separated,3.19900356204883e-14
+Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over,3.1433189384699745e-14
+"Estimate; FERTILITY - Per 1,000 women 15 to 50 years old - Per 1,000 women 20 to 34 years old",3.1341249040472974e-14
+Estimate; ANCESTRY - American,3.026745520884333e-14
+"Estimate Margin of Error; PLACE OF BIRTH - Native - Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)",3.0263985761891377e-14
+Percent; RELATIONSHIP - Child,2.8255175976710234e-14
+Percent Margin of Error; EDUCATIONAL ATTAINMENT - Percent bachelor's degree or higher,2.7325364193586665e-14
+"Percent Margin of Error; EDUCATIONAL ATTAINMENT - 9th to 12th grade, no diploma",2.7325364193586665e-14
+Percent; GRANDPARENTS - Who are female,2.5174307083375425e-14
+Percent Margin of Error; YEAR OF ENTRY - Entered 2000 or later.1,2.4792667918660527e-14
+Estimate Margin of Error; SCHOOL ENROLLMENT - Elementary school (grades 1-8),2.4787463748232597e-14
+Percent; VETERAN STATUS - Civilian population 18 years and over,2.3566218421144924e-14
+Percent Margin of Error; HOUSEHOLDS BY TYPE - Family households (families),2.3175905639050143e-14
+Estimate Margin of Error; RESIDENCE 1 YEAR AGO - Different house in the U.S. - Different county - Same state,2.285671651947041e-14
+Estimate Margin of Error; HOUSEHOLDS BY TYPE - Total households,2.26554885962571e-14
+Percent; HOUSEHOLDS BY TYPE - Average family size,2.1600776722863202e-14
+Percent; RELATIONSHIP - Other relatives,2.0893009544664665e-14
+Estimate; SCHOOL ENROLLMENT - Kindergarten,2.020605904817785e-14
+Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Europe,2.0188278132549087e-14
+Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school,1.9484414082171497e-14
+Estimate; HOUSEHOLDS BY TYPE - Households with one or more people 65 years and over,1.9182572197351533e-14
+Percent Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Latin America,1.8707257964933888e-14
+Percent; RESIDENCE 1 YEAR AGO - Different house in the U.S. - Different county - Different state,1.8283985436795547e-14
+"Estimate; MARITAL STATUS - Now married, except separated",1.7517237660413798e-14
+"Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Language other than English - Other Indo-European languages - Speak English less than ""very well""",1.7458257062230587e-14
+Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Language other than English,1.5390466678866233e-14
+Percent Margin of Error; ANCESTRY - Total population,1.4516166046973922e-14
+Estimate Margin of Error; RELATIONSHIP - Nonrelatives - Unmarried partner,1.3411147192776696e-14
+Percent Margin of Error; RELATIONSHIP - Spouse,1.3310533231170041e-14
+Percent Margin of Error; YEAR OF ENTRY - Native,1.3225531780847177e-14
+Estimate Margin of Error; SCHOOL ENROLLMENT - Kindergarten,1.2656542480726785e-14
+"Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Language other than English - Asian and Pacific Islander languages - Speak English less than ""very well""",1.2406742300186124e-14
+Estimate; HOUSEHOLDS BY TYPE - Family households (families) - Married-couple family - With own children under 18 years,1.201816424156732e-14
+Percent Margin of Error; RESIDENCE 1 YEAR AGO - Different house in the U.S. - Different county - Different state,1.1747547379314938e-14
+Estimate; HOUSEHOLDS BY TYPE - Average family size,1.1005085731596864e-14
+Percent; EDUCATIONAL ATTAINMENT - Bachelor's degree,1.0946105133413653e-14
+Percent Margin of Error; YEAR OF ENTRY - Foreign born,1.0602629885170245e-14
+Percent Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Northern America,1.0380585280245214e-14
+Estimate; SCHOOL ENROLLMENT - Elementary school (grades 1-8),1.0217521273503394e-14
+Estimate Margin of Error; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school,1.0166346930962078e-14
+"Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea",9.872311301784009e-15
+"Estimate; LANGUAGE SPOKEN AT HOME - Language other than English - Other languages - Speak English less than ""very well""",9.381384558082573e-15
+"Percent; MARITAL STATUS - Now married, except separated.1",9.353628982466944e-15
+Percent Margin of Error; HOUSEHOLDS BY TYPE - Average family size,8.791578576250458e-15
+"Percent Margin of Error; FERTILITY - Unmarried women (widowed, divorced, and never married)",8.468920009718772e-15
+"Estimate Margin of Error; FERTILITY - Unmarried women (widowed, divorced, and never married)",8.409939411535561e-15
+Estimate; HOUSEHOLDS BY TYPE - Nonfamily households,8.385653282871885e-15
+Percent; RESIDENCE 1 YEAR AGO - Different house in the U.S. - Same county,7.140121827120538e-15
+Percent Margin of Error; HOUSEHOLDS BY TYPE - Nonfamily households - Householder living alone - 65 years and over,6.522560269672795e-15
+Estimate; YEAR OF ENTRY - Entered 2000 or later,5.460909502374989e-15
+Percent Margin of Error; HOUSEHOLDS BY TYPE - Nonfamily households,4.6629367034256575e-15
+Percent Margin of Error; WORLD REGION OF BIRTH OF FOREIGN BORN - Asia,3.9343528435153985e-15
+Percent Margin of Error; YEAR OF ENTRY - Entered before 2000.1,1.5577816814271728e-15
+Percent; HOUSEHOLDS BY TYPE - Total households,1.2802259252708836e-15
+Estimate Margin of Error; PLACE OF BIRTH - Native - Born in United States,9.298117831235686e-16
+Percent Margin of Error; VETERAN STATUS - Civilian veterans,8.81239525796218e-16
+Percent; VETERAN STATUS - Civilian veterans,8.743006318923108e-16
+Percent; YEAR OF ENTRY - Native,8.743006318923108e-16
+Estimate Margin of Error; YEAR OF ENTRY - Native,8.673617379884035e-16
+"Percent Margin of Error; EDUCATIONAL ATTAINMENT - Some college, no degree",4.926614671774132e-16
