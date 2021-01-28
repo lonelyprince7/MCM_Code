@@ -4,15 +4,13 @@ Version: 1.0
 Author: ZhangHongYu
 Date: 2021-01-25 13:49:28
 LastEditors: ZhangHongYu
-LastEditTime: 2021-01-28 17:44:17
+LastEditTime: 2021-01-29 00:10:25
 '''
 import netCDF4 as nc
 import numpy as np
 import matplotlib.pyplot as plt
-from mpl_toolkits.basemap import Basemap
 import time
-import random
-from sklearn.cluster import KMeans
+
 
 origin = 2001
 root_path = '/mnt/mydisk/LocalCode/data/OceanData/'
@@ -28,8 +26,6 @@ class BlockMatrix(object):
         self.lati = lati
         self.data = data
         self.year = year
-        self.height = data.shape[0]  # 地图x方向总高度
-        self.width = data.shape[1]  # 地图y方向总宽度
 
     # 方块化
     def getAvg(self):
