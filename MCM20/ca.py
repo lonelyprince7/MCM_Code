@@ -4,7 +4,7 @@ Version: 1.0
 Author: ZhangHongYu
 Date: 2021-01-25 13:49:28
 LastEditors: ZhangHongYu
-LastEditTime: 2021-01-28 17:36:42
+LastEditTime: 2021-01-29 16:51:15
 '''
 import netCDF4 as nc
 import numpy as np
@@ -39,7 +39,8 @@ class BlockMatrix(object):
         self.alpha = 0.8
         self.belta = 1 - self.alpha
         self.setBlock()
-        self.rise_coeff = 0.1
+        # 0.1 is normal
+        self.rise_coeff = 0.5
 
     # 方块化
     def setBlock(self):
